@@ -13,9 +13,9 @@
 
 - I am a passionate and curious learner in the field of technology, currently exploring various tools and technologies to strengthen my technical skills. I have a strong interest in Data Analytics and data scientist and continuously seek opportunities to learn and grow in this domain.
 
-  I enjoy working with modern tools and platforms, including cloud services, containerization, version control, and programming languages. My skill set includes working with    technologies like AWS, Docker, Git, MySQL, Node.js, Python, and more.
+- I enjoy working with modern tools and platforms, including cloud services, containerization, version control, and programming languages. My skill set includes working with  technologies like AWS, , Git, MySQL, Python, powerBi, ML  and more.
 
-  I am always eager to collaborate, learn new concepts, and build practical projects that enhance my real-world understanding. My goal is to become a skilled professional who can   contribute effectively to innovative and impactful tech solutions.**
+- I am always eager to collaborate, learn new concepts, and build practical projects that enhance my real-world understanding. My goal is to become a skilled professional who can  contribute effectively to innovative and impactful tech solutions.**
 
 - 📫 How to reach me **kuljitsingh5868@gmail.com**
 
